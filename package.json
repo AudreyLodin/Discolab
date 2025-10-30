@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "child_process": "^1.0.2",
+    "codemirror": "^6.0.1",
+    "cors": "^2.8.5",
+    "crypto-js": "^4.2.0",
+    "express": "^4.21.1",
+    "ffi-napi": "^4.0.3",
+    "fs": "^0.0.1-security",
+    "mysql": "^2.18.1",
+    "ref-napi": "^3.0.3",
+    "socket.io": "^4.8.0"
+  },
+  "name": "m2_projet_prog_ia",
+  "version": "1.0.0",
+  "description": "ftde",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
